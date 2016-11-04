@@ -13,10 +13,5 @@ Implementation:
 		3. Relaxation algorithm with margin
 		4. Widrow-Hoff or Least Mean Squared (LMS) Rule
 		
-RESULTS:
-	Single sample perceptron:	100%
-	Single sample with margin:	100%
-	Relaxation with margin:		100%
-	LMS:					94.5%
-	
+
 To Run Code,run Script file "run.sh"	
